@@ -1,0 +1,13 @@
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\bin\Debug\One Dark VSCode.pkgdef
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\bin\Debug\OneDarkVsCode.vsix
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\bin\Debug\extension.vsixmanifest
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\obj\Debug\OneDarkVsCode.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\obj\Debug\_EmptyResource.resources
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\obj\Debug\OneDarkVsCode.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\obj\Debug\OneDarkVsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\obj\Debug\OneDarkVsCode.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\obj\Debug\OneDarkVsCode.dll
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\obj\Debug\OneDarkVsCode.pdb
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\obj\Debug\extension.vsixmanifest
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\obj\Debug\files.json
+C:\Users\Fabio\source\repos\OneDarkVsCode\OneDarkVsCode\obj\Debug\createTemplateManifests.cache
